@@ -2,12 +2,13 @@ def create_an_empty_array
   
 end
 
-def create_an_array(Youri)
-  Youri=
+def create_an_array
+  Youri=["name", "Last_name"]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  
   
 end
 
