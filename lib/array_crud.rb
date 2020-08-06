@@ -15,21 +15,21 @@ youri_cadet.unshift("wow")
 end
 
 def remove_element_from_end_of_array(youri_cadet)
-arrays = cool_dogs.pop
+arrays = youri_cadet.pop
 end
 
-def remove_element_from_start_of_array(cool_dogs)
-wow = cool_dogs.shift
+def remove_element_from_start_of_array(youri_cadet)
+wow = youri_cadet.shift
 end
 
 def retrieve_element_from_index(array, element)
  array[2]
 end
 
-def retrieve_first_element_from_array(cool_dogs)
-cool_dogs.first
+def retrieve_first_element_from_array(youri_cadet)
+youri_cadet.first
 end
 
-def retrieve_last_element_from_array(cool_dogs)
-cool_dogs.last
+def retrieve_last_element_from_array(youri_cadet)
+youri_cadet.last
 end
